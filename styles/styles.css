@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(221, 248, 221);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(122, 154, 122);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited{ 
+    color: rgb(2, 68, 122);
+}
+.resumelistheading{
+    font-weight: bold;
+    font-style: normal;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg {
+    background-image: url('../images/backgroundimage.jpeg');
+    background-position:initial;
+    background-size:cover;
+   
+}
